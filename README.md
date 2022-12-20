@@ -1,16 +1,5 @@
-# modernlogintute
+# EMAIL LOGIN & LOGOUT x FIREBASE
 
-A new Flutter project.
+Watch tutorial here: https://youtu.be/_3W-JuIVFlg
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![71BB3DCC-2536-40CE-A9E4-966C8FCE5ED4](https://user-images.githubusercontent.com/29016489/208593637-b45d7a7f-f421-4663-b017-9f158963d0ce.JPG)
